@@ -1,13 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm Darshika Saxena</h1>
-<h3 align="center">A passionate app developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshikasaxena5&label=Profile%20views&color=0e75b6&style=flat" alt="darshikasaxena5" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+-  I’m currently exploring Machine Learning and building hands-on projects to deepen my understanding.
 
-- 📫 How to reach me **darshika13517@gmail.com**
+-  How to reach me **darshika13517@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
